@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/dev_parameter
+      database: dev_parameter
